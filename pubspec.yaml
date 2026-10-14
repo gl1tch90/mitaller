@@ -1,0 +1,29 @@
+name: mitaller
+description: Punto de venta para taller mecánico de carros y motos.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.3.0
+  crypto: ^3.0.3
+  pdf: ^3.11.0
+  printing: ^5.13.0
+  image_picker: ^1.0.8
+  path_provider: ^2.1.4
+  url_launcher: ^6.3.0
+  share_plus: ^13.3.1
+  file_picker: ^13.1.0
+  mobile_scanner: ^5.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

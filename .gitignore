@@ -1,0 +1,28 @@
+# Archivos generados por Flutter/Dart (no se suben al repo)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Archivos de Android
+android/.gradle/
+android/captures/
+android/local.properties
+local.properties
+
+# Archivos de iOS (por si se compila para iOS algún día)
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/.generated/
+
+# Archivos del sistema
+.DS_Store
+*.iml
+.idea/
+.vscode/
+
+# Respalos locales de prueba
+*.json.bak
