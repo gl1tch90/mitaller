@@ -15,6 +15,7 @@ del login como diagnóstico). Formato: `AAAA.MM.DD-letra` (ej. `2026.10.08-h`).
 ## Cómo correr la app
 
 ```bash
+flutter clean
 flutter pub get
 flutter run
 ```
